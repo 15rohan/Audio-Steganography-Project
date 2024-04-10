@@ -1,4 +1,4 @@
-# Audio Steganography in Natural Sounds with Encryption
+# Audio Steganography in Natural Sounds with AES Encryption
 This repository contains Python code for implementing audio steganography in natural sounds with encryption. 
 
 ## Overview
